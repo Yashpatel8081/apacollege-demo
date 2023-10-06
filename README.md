@@ -1,5 +1,2 @@
 # apacollege-demo
-this is my first git repository.
-<br>
-author - yash patel
-sdadss
+this is my first git reposit
